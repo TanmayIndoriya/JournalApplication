@@ -8,14 +8,14 @@
 		<version>2.7.16</version>
 		<relativePath/>
 	</parent>
-	<groupId>net.engineeringdigest</groupId>
+	<groupId>com.demo</groupId>
 	<artifactId>journalApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Journal App</name>
 	<description>E2EE Journal App</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.organization>engineering-digest</sonar.organization>
+		<sonar.organization>test-da-code</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
